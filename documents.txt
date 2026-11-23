@@ -1,0 +1,6 @@
+1|Java Programming|Java coding programming|Learn the basics of Java programming and coding.
+2|Python Programming|Python coding programming|Learn how to write Python programs.
+3|Computer Science|computers technology science|Study computers and how technology works.
+4|Web Development|HTML CSS websites|Learn how to create and design websites.
+5|History of Computers|computers history|Discover the history of computers and technology.
+6|Mathematics|math algebra numbers|Learn about algebra and mathematical concepts.
